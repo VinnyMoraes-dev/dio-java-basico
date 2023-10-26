@@ -1,4 +1,4 @@
-package com.anatomiacla1sses.segundasemana;
+package com.anatomiaclasses.segundasemana;
 
 public class BoletimEstudantil {
 

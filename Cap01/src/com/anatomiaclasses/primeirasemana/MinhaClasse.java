@@ -1,4 +1,4 @@
-package com.anatomiacla1sses.primeirasemana;
+package com.anatomiaclasses.primeirasemana;
 
 public class MinhaClasse {
 
